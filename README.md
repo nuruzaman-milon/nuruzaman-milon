@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Easy Travel BD](https://github.com/nuruzaman-milon/easy-travel-bd-client)
 
-- 🌱 I’m currently learning **JavaScript, Redux, etc**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://nuruzaman-milon.netlify.app/](https://nuruzaman-milon.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, etc**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **nuruzaman.milon@gmail.com**
 
