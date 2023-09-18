@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Nuruzaman Milon</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h1 align="center">Hello 👋, I am Md. Nuruzaman Milon</h1>
+<h3 align="center">A committed Full-Stack developer proudly representing Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuruzaman-milon&label=Profile%20views&color=0e75b6&style=flat" alt="nuruzaman-milon" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Easy Travel BD](https://github.com/nuruzaman-milon/easy-travel-bd-client)
+- 🔭 I’m currently working on [Nazaara Exclusive Woman Wear]([https://github.com/nuruzaman-milon/easy-travel-bd-client](https://www.nazaaralifestyle.com/))
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://nuruzaman-milon.netlify.app/](https://nuruzaman-milon.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Next JS**
 
 - 📫 How to reach me **nuruzaman.milon@gmail.com**
 
